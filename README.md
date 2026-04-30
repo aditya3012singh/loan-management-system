@@ -16,7 +16,6 @@ A full-stack Loan Management System built with **Next.js**, **Express.js**, **Ty
 | Validation | Zod (server & client)                         |
 | Upload     | Multer (PDF/JPG/PNG, max 5 MB)                |
 
----
 
 ## Project Structure
 
